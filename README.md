@@ -1,5 +1,5 @@
 # Pedra, Papel e Tesoura — Limbus Company
-
+Feito por: Miguel Ramos e Guilherme Flores
 Jogo em **Python + Flask**. Quem fizer **5 pontos primeiro** vence.
 
 ## O que você precisa
